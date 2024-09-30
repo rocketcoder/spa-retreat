@@ -8,7 +8,7 @@ interface Service {
   price: number;
   image: string;
 }
-
+ 
 // Define the expected shape of the params
 interface Params {
   slug: string;
